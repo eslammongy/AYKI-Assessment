@@ -34,7 +34,7 @@ This Flutter app demonstrates the following functionalities:
 ### Drag-and-Drop
 
 - Users can drag objects from the top drawer and drop them into the bottom drawer seamlessly.
-- Simulate api call by fetching data from JSON file exist in assets to shows the approach of using Riverpod in more advanced use cases
+- Simulate API call by fetching data from JSON file existing in assets to show the approach of using Riverpod in more advanced use cases
 
 ### UI Design
 
@@ -53,10 +53,11 @@ This Flutter app demonstrates the following functionalities:
 - Drag objects from the top drawer to the bottom drawer.
 - Observe animations for drawer interactions.
 
-## Screenshots
+## ScreenRecord
 
-(Add screenshots of the app in action here.)
 
-## Contact
 
-For any questions or clarifications, please reach out to [Your Email/Contact Info].
+https://github.com/user-attachments/assets/64a834f0-01bd-46b0-85ba-aaf5e87e9888
+
+
+
